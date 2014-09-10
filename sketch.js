@@ -1,9 +1,9 @@
 function setup() {
-  createCanvas(640, 480);
-  background(0);
-  stroke(255);
-  noFill();
-  line(10, 10, 90, 10);
-    rect(20, 20, 80, 50);
-    ellipse(50, 50, 50, 50);
+  createCanvas(500,420);
+  background(155);
+  stroke(0);
+  
+  line(360,10,380,10);
+  line(350,10,360,20);
+  line(380,10,380,20);
 }
