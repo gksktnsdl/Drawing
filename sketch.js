@@ -2,7 +2,7 @@ function setup() {
   createCanvas(640, 480);
 
   
-  background(255,0,0);
+  background(174,138,184);
   stroke(255);
   noFill();
  line(360,10,380,10);
